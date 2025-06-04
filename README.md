@@ -1,7 +1,7 @@
-📚 Sistema de Gerenciamento de Notas de Alunos
+📚 **Sistema de Gerenciamento de Notas de Alunos**
 
 Este projeto é um sistema simples de gerenciamento de notas de alunos desenvolvido em Python com interface gráfica (GUI) usando Tkinter. Ele permite adicionar, visualizar, pesquisar e excluir registros de alunos e suas respectivas notas em diferentes disciplinas.
-✨ Funcionalidades
+✨ **Funcionalidades**
 
     Adicionar Aluno: Insira o nome do aluno, três notas e a disciplina para adicionar um novo registro.
     Cálculo de Média: A média das notas é calculada automaticamente.
@@ -11,17 +11,17 @@ Este projeto é um sistema simples de gerenciamento de notas de alunos desenvolv
     Validação de Entrada: Campos numéricos aceitam apenas números (inteiros ou decimais) e campos de texto aceitam apenas letras.
     Interface Gráfica (GUI): Desenvolvida com Tkinter, proporcionando uma experiência de usuário intuitiva.
 
-🎯 Algoritmos Utilizados
+🎯 **Algoritmos Utilizados**
 
     Bubble Sort: Implementado para ordenar a lista de alunos com base em suas médias ou nomes.
     Busca Binária: Utilizado para localizar rapidamente um aluno específico na lista ordenada pelo nome.
 
-🛠️ Tecnologias
+🛠️ **Tecnologias**
 
     Python 3.x
     Tkinter (biblioteca padrão para GUI em Python)
 
-🚀 Como Rodar o Projeto
+🚀 **Como Rodar o Projeto**
 
     git clone https://github.com/DaviJCN/Projeto-NotaFacil.git
     cd Projeto-NotaFacil
@@ -32,7 +32,7 @@ Bash
     python main.py
     Isso abrirá a janela do aplicativo.
 
-📄 Estrutura do Código
+📄 **Estrutura do Código**
 
 O projeto é dividido em três arquivos Python para melhor organização:
 
@@ -40,8 +40,10 @@ O projeto é dividido em três arquivos Python para melhor organização:
     overlay.py: Contém a lógica da interface gráfica do usuário (GUI) com Tkinter, definindo os widgets, layout e chamadas para as funções de manipulação de dados.
     configuracao.py: Contém as funções de lógica de negócios, como salvar_dados, bubblesort, busca_binaria_por_nome, atualizar_listbox e funções de validação de entrada.
 
-Projeto feito por :
+**Projeto feito por :**
 
-Daniel Douglas da Silva Aquino - 40528634
-Vinicius Pereira Souza - 40528634
+Daniel Douglas da Silva Aquino - 40528634 
+
+Vinicius Pereira Souza - 40528634 
+
 Davi José Carvalho Nascimento - 40166660
