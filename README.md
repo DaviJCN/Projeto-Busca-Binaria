@@ -23,11 +23,8 @@ Este projeto é um sistema simples de gerenciamento de notas de alunos desenvolv
 
 🚀 Como Rodar o Projeto
 
-    Clone o Repositório:
-    Bash
-
-git clone https://github.com/DaviJCN/Projeto-NotaFacil.git
-cd Projeto-NotaFacil
+    git clone https://github.com/DaviJCN/Projeto-NotaFacil.git
+    cd Projeto-NotaFacil
 
 Execute o Programa:
 Bash
