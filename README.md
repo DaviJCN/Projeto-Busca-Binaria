@@ -39,3 +39,9 @@ O projeto é dividido em três arquivos Python para melhor organização:
     main.py: O ponto de entrada principal do aplicativo, que chama a função principal() do módulo overlay.
     overlay.py: Contém a lógica da interface gráfica do usuário (GUI) com Tkinter, definindo os widgets, layout e chamadas para as funções de manipulação de dados.
     configuracao.py: Contém as funções de lógica de negócios, como salvar_dados, bubblesort, busca_binaria_por_nome, atualizar_listbox e funções de validação de entrada.
+
+Projeto feito por :
+
+Daniel Douglas da Silva Aquino - 40528634
+Vinicius Pereira Souza - 40528634
+Davi José Carvalho Nascimento - 40166660
