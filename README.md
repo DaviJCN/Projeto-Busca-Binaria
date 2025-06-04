@@ -26,16 +26,13 @@ Este projeto é um sistema simples de gerenciamento de notas de alunos desenvolv
     Clone o Repositório:
     Bash
 
-git clone https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git
-cd SEU-REPOSITORIO
-
-(Lembre-se de substituir SEU-USUARIO e SEU-REPOSITORIO pelo seu próprio nome de usuário e pelo nome que você escolher para o repositório.)
+git clone https://github.com/DaviJCN/Projeto-NotaFacil.git
+cd Projeto-NotaFacil
 
 Execute o Programa:
 Bash
 
     python main.py
-
     Isso abrirá a janela do aplicativo.
 
 📄 Estrutura do Código
