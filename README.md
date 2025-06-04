@@ -19,7 +19,7 @@ Este projeto é um sistema simples de gerenciamento de notas de alunos desenvolv
 🛠️ **Tecnologias**
 
     Python 3.x
-    Tkinter (biblioteca padrão para GUI em Python)
+    Tkinter 
 
 🚀 **Como Rodar o Projeto**
 
