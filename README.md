@@ -47,3 +47,9 @@ Daniel Douglas da Silva Aquino - 40528634
 Vinicius Pereira Souza - 40528634 
 
 Davi José Carvalho Nascimento - 40166660
+
+Vito Hugo Alves da Silva - 40772969
+
+Guilherme de Melo Lucas - 40681891
+
+Brenno Barbosa Alves - 40379353
